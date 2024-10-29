@@ -1,0 +1,18 @@
+{
+  "AutoUpdater.Chat.Prefix": "[{green}自动更新{default}]",
+  "AutoUpdater.Chat.NewUpdateReleased": "CS2 有新的更新发布 (版本: {0}) 本服务器将于 {1} 重启",
+  "AutoUpdater.Chat.PluralSuffix": "s",
+  "AutoUpdater.Chat.MinuteLabel": "分钟",
+  "AutoUpdater.Chat.SecondLabel": "秒",
+  "AutoUpdater.Console.NewUpdateReleased": "CS2 有新的更新发布 (版本: {0}). 本服务器正在准备关闭.",
+  "AutoUpdater.Console.ConfigVersionMismatch": "配置版本不匹配 (预期版本: {0} | 实际版本: {1})",
+  "AutoUpdater.Console.UpdateCheckInitiated": "蒸汽平台（Steam） API 已激活. 正在检查更新...",
+  "AutoUpdater.Console.HibernateWarning": "'sv_hibernate_when_empty' 控制台变量（ConVar）已被开启，此插件可能无法按预期工作。",
+  "AutoUpdater.Console.ErrorUpdateCheck": "检查服务器更新时发生错误: {0}",
+  "AutoUpdater.Console.ErrorPatchVersionNull": "无法搜索 CS2 的当前补丁版本。此服务器将不会检查更新。",
+  "AutoUpdater.Console.WarningSteamRequestFailed": "蒸汽平台（Steam） HTTP 请求失败，状态代码为: {0}",
+  "AutoUpdater.Console.ErrorSteamInfNotFound": "在 CS2 的根目录中未找到 “steam.inf” 文件。路径： \"{0}\"",
+  "AutoUpdater.Console.ErrorPatchVersionKeyNotFound": "在 steam.inf 文件中找不到 “PatchVersion” （补丁版本） 密钥。",
+  "AutoUpdater.Console.ErrorReadingSteamInf": "读取 “steam.inf” 文件时发生错误: {0}",
+  "AutoUpdater.Console.ServerShutdownInitiated": "由于CS2游戏更新，服务器即将关闭。 (版本: {0})"
+}
